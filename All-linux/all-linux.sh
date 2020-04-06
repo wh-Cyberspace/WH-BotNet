@@ -235,7 +235,7 @@ do
 				sudo unzip -x $LPARTH/final-whbotnet.zip > /dev/null 2>&1
 				sleep 2;
 				rm -rf $LPARTH/final-whbotnet.zip
-
+                                cp $LPARTH/assets/webpublic/css/abvendor/bac.jpg $LPARTH/assets/webpublic/css/abvendor/bac
 				echo "${BLUE}[☆]${YELLOW} NODE JS install in main directory!${RESTORE}"
 				sudo npm install
 
@@ -438,8 +438,9 @@ do
 				unzip -x $LPARTH/final-whbotnet.zip > /dev/null 2>&1
 				sleep 2;
 				rm -rf $LPARTH/final-whbotnet.zip
-
-				echo "${BLUE}[☆]${YELLOW} NODE JS install in main directory!${RESTORE}"
+  
+			cp $LPARTH/assets/webpublic/css/abvendor/bac.jpg $LPARTH/assets/webpublic/css/abvendor/bac	
+			echo "${BLUE}[☆]${YELLOW} NODE JS install in main directory!${RESTORE}"
 				npm install
 
 
