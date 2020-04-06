@@ -289,6 +289,22 @@ do
 
 				#========================================================================ANDROID=====================================================================#
 
+                               # NODE JS CKECK 
+				apc=`which git`
+				if [ "$?" != "0" ]; then
+				  FaIl="YES"
+				  echo ${BLUE}[x]${YELLOW} git installation ${RED}'->' not found!${RESTORE};
+				  sleep 1
+				  echo ${BLUE}[x]${YELLOW} This script requires git to work!${RESTORE};
+				  echo ${BLUE}[☆] ${YELLOW}Please wait: installing missing dependencies ..${RESTORE};
+				  echo ""
+				  pkg install git -y
+				  echo ""
+				else
+				  echo ${BLUE}[☆]${YELLOW}" git installation   : ${GREEN}found!"${RESTORE};
+				  sleep 1
+				fi
+
 
 				#JAVA CHECK 
 				apc=`which java`
@@ -345,7 +361,7 @@ do
 
 
 				# NODE JS CKECK 
-				apc=`which npm`
+				apc=`which nodejs`
 				if [ "$?" != "0" ]; then
 				  FaIl="YES"
 				  echo ${BLUE}[x]${YELLOW} NodeJS installation ${RED}'->' not found!${RESTORE};
@@ -359,6 +375,23 @@ do
 				  echo ${BLUE}[☆]${YELLOW}" NodeJS installation   : ${GREEN}found!"${RESTORE};
 				  sleep 1
 				fi
+				
+				# Npm JS CKECK 
+				apc=`which npm`
+				if [ "$?" != "0" ]; then
+				  FaIl="YES"
+				  echo ${BLUE}[x]${YELLOW} Npm installation ${RED}'->' not found!${RESTORE};
+				  sleep 1
+				  echo ${BLUE}[x]${YELLOW} This script requires Npm to work!${RESTORE};
+				  echo ${BLUE}[☆] ${YELLOW}Please wait: installing missing dependencies ..${RESTORE};
+				  echo ""
+				  pkg install npm -y
+				  echo ""
+				else
+				  echo ${BLUE}[☆]${YELLOW}" Npm installation   : ${GREEN}found!"${RESTORE};
+				  sleep 1
+				fi
+				
 
 
 				# NODE PM2 CHECK 
@@ -379,7 +412,7 @@ do
 
 
 				# UNZIP CHECK 
-				apc=`which pm2`
+				apc=`which unzip`
 				if [ "$?" != "0" ]; then
 				  FaIl="YES"
 				  echo ${BLUE}[x]${YELLOW} UNZIP installation ${YELLOW}'->' not found!${RESTORE};
@@ -393,8 +426,7 @@ do
 				  echo ${BLUE}[☆]${YELLOW}" UNZIP installation   : ${GREEN}found!"${RESTORE};
 				  sleep 1
 				fi
-
-
+                               
 
 				echo ""
 				echo "${BLUE}[☆]${YELLOW} Downloading Main Pkg files  : ${GREEN}31.3 MB !${RESTORE}"
