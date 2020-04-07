@@ -28,6 +28,21 @@ And must be need Ngrok Account for authtoken .
 5. 2nd install (Node Insall Button )
 
 
+
+# HOW TO RUN / INSTALL in any Linux (kali/android)
+
+1.git clone https://github.com/wh-hackerexploit/WH-BotNet.git
+
+2. cd WH-BotNet/All-linux
+
+3. chmod +x all-linux.sh 
+
+4. bash all-linux.sh
+
+5. FOR install > 1
+
+6. chose system [ Kali or parrot > 1 // Android > 2 ]
+
 # How To Use :
  YOUTUBE VIDEO ⬇ 
  
