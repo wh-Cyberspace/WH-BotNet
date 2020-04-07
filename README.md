@@ -4,7 +4,6 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 # requirements PKG
 All pkg automatic download and install .
 
-And must be need Ngrok Account for authtoken .
 
 # SYSTEM TEST
 1. kali-linux   
