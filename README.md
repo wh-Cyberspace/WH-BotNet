@@ -7,13 +7,13 @@ All pkg automatic download and install .
 And must be need Ngrok Account for authtoken .
 
 # SYSTEM TEST
-1. kali-linux   [ Recommended System ]
+1. kali-linux   
 
 2. parrot os
 
-3. Windows (8.0 ; 8.1 ; 10)
+3. Windows (8.0 ; 8.1 ; 10)[ Recommended System ]
 
-4. Android (6.0 to 9.0)
+4. Android (6.0 to 9.0)[ Recommended System ]
 
 # HOW TO RUN / INSTALL in WINDOWS
 
