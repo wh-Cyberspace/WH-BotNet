@@ -3,7 +3,9 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 # requirements PKG
 ☆ PowerShell 
+
 and 
+
 Other All pkg automatic download and install .
 
 
