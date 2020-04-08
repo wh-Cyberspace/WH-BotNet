@@ -79,7 +79,8 @@ Framwork version : 1.0.1
 
 POWER BY >> WH-HackerExploit  
 
-Developer: R47 
+Developer: R47
+
 coeded by : ahmyth >> l3mon
 
                                  Apache License
