@@ -50,7 +50,7 @@ password : wh-botnet
 
 # Browser access
 
-* Your browser access >>  [ http://<YOUR IPv4>:22533 ]
+* Your browser access >>  [ http://《YOUR IPv4》:22533 ]
 
 
 # How To Use :
