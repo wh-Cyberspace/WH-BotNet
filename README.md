@@ -80,7 +80,7 @@ Framwork version : 1.0.1
 POWER BY >> WH-HackerExploit  
 
 Developer: R47 
-
+coeded by : ahmyth >> l3mon
 
                                  Apache License
                            Version 2.0, January 2004
@@ -287,3 +287,5 @@ Developer: R47
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+   
