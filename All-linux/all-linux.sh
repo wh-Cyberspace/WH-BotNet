@@ -369,7 +369,7 @@ do
 				  echo ${BLUE}[x]${YELLOW} This script requires NodeJS to work!${RESTORE};
 				  echo ${BLUE}[☆] ${YELLOW}Please wait: installing missing dependencies ..${RESTORE};
 				  echo ""
-				  pkg install npdejs -y
+				  pkg install nodejs -y
 				  echo ""
 				else
 				  echo ${BLUE}[☆]${YELLOW}" NodeJS installation   : ${GREEN}found!"${RESTORE};
