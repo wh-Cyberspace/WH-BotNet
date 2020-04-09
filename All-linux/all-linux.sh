@@ -454,7 +454,7 @@ do
 				#rm -rf $LPARTH/nohup.out
 
 				echo "${BLUE}[☆]${YELLOW} UN PACK MAIN PKG!${RESTORE}"
-				unzip -x $LPARTH/final-whbotnet.zip > /dev/null 2>&1
+				unzip -x $LPARTH/final-whbotnet.zip
 				sleep 2;
 				rm -rf $LPARTH/final-whbotnet.zip
   
