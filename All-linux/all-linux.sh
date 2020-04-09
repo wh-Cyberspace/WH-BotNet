@@ -380,7 +380,7 @@ do
 
 
 				# NODE JS CKECK 
-				apc=`which nodejs`
+				apc=`which node`
 				if [ "$?" != "0" ]; then
 				  FaIl="YES"
 				  echo ${BLUE}[x]${YELLOW} NodeJS installation ${RED}'->' not found!${RESTORE};
