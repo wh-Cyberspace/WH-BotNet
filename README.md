@@ -34,7 +34,7 @@ Other All pkg automatic download and install .
 
 # HOW TO RUN / INSTALL in any Linux (kali/android)
 
-1.git clone https://github.com/wh-hackerexploit/WH-BotNet.git
+1. git clone https://github.com/wh-hackerexploit/WH-BotNet.git
 
 2. cd WH-BotNet/All-linux
 
