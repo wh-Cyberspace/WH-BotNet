@@ -315,7 +315,7 @@ do
 				  echo ${BLUE}[x]${YELLOW} This script requires wget to work!${RESTORE};
 				  echo ${BLUE}[☆] ${YELLOW}Please wait: installing missing dependencies ..${RESTORE};
 				  echo ""
-				  sudo apt-get install wget -y
+				  pkg install wget -y
 				  echo ""
 				else
 				  echo ${BLUE}[☆]${YELLOW}" wget installation   : ${GREEN}found!"${RESTORE};
