@@ -304,7 +304,26 @@ do
 				  echo ${BLUE}[☆]${YELLOW}" git installation   : ${GREEN}found!"${RESTORE};
 				  sleep 1
 				fi
-
+				
+	
+	
+                               apc=`which wget`
+				if [ "$?" != "0" ]; then
+				  FaIl="YES"
+				  echo ${BLUE}[x]${YELLOW} wget installation ${RED}'->' not found!${RESTORE};
+				  sleep 1
+				  echo ${BLUE}[x]${YELLOW} This script requires wget to work!${RESTORE};
+				  echo ${BLUE}[☆] ${YELLOW}Please wait: installing missing dependencies ..${RESTORE};
+				  echo ""
+				  sudo apt-get install wget -y
+				  echo ""
+				else
+				  echo ${BLUE}[☆]${YELLOW}" wget installation   : ${GREEN}found!"${RESTORE};
+				  sleep 1
+				fi
+				
+				
+				
 
 				#JAVA CHECK 
 				apc=`which java`
