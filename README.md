@@ -16,9 +16,9 @@ Other All pkg automatic download and install .
 
 3. Windows (8.0 ; 8.1 ; 10)[ Recommended System ]
 
-4. Android (6.0 to 9.0)[ Recommended System ]
+4. Android (5.0 to 7.0)[ Recommended System ]
 
-# HOW TO RUN / INSTALL in WINDOWS
+# HOW TO INSTALL in WINDOWS
 
 1. Download Zip file https://github.com/wh-hackerexploit/WH-BotNet/archive/master.zip
 
@@ -33,7 +33,7 @@ Other All pkg automatic download and install .
 
 
 
-# HOW TO RUN / INSTALL in any Linux (kali/android)
+# HOW TO INSTALL in any Linux (kali/android)
 
 1. git clone https://github.com/wh-hackerexploit/WH-BotNet.git
 
@@ -47,6 +47,24 @@ Other All pkg automatic download and install .
 5. FOR install > 1
 
 6. chose system [ Kali or parrot > 1 // Android > 2 ]
+
+# How to RUN
+
+1. option 2 ( Run-Bot )
+
+----◇ now system selection 
+
+--------1.1 > kali/parrot option (1) 
+--------1.2 Android termux options (2)
+
+2.Start botnet option (1) 
+
+---2.2 stop botnet options (2)
+
+---2.3 kill all option (3)
+
+---2.3 exait (4)
+  
 
 
 # LOGIN INFO..
