@@ -85,7 +85,12 @@ password : wh-botnet
 
 
  
- [WH-HackerExploit BOTNET Advance penetration framework VIDEO ( PC )]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ") 
+ [WH-HackerExploit BOTNET Advance penetration framework VIDEO ( PC )]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
+
+
+
+
+[WH-HackerExploit BOTNET Advance penetration framework VIDEO ( Termux )]( https://www.youtube.com/watch?v=gMm-D8-6wgY "WH-HackerExploit BOTNET Advance penetration framework ( termux ") 
 
 
 
