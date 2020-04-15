@@ -9,7 +9,7 @@ and
 Other All pkg automatic download and install .
 
 
-# 🛢 SYSTEM TEST
+# 💿 SYSTEM TEST
 1. kali-linux   
 
 2. parrot os
@@ -96,7 +96,7 @@ password : wh-botnet
 
 
 
-## 🏔 Screenshot:
+# 🌌 Screenshot:
 
 
 
