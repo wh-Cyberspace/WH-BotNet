@@ -50,21 +50,21 @@ Other All pkg automatic download and install .
 
 # How to RUN
 
-1. option 2 ( Run-Bot )
+1. Run Botnet option (2)
 
-----◇ now system selection 
+-----------◇ now system selection 
 
---------1.1 > kali/parrot option (1) 
+------------------1.1 > kali/parrot option (1) 
 
---------1.2 Android termux options (2)
+------------------1.2 Android termux options (2)
 
 2.Start botnet option (1) 
 
----2.2 stop botnet options (2)
+---------2.2 stop botnet options (2)
 
----2.3 kill all option (3)
+---------2.3 kill all option (3)
 
----2.3 exait (4)
+---------2.3 exait (4)
   
 
 
