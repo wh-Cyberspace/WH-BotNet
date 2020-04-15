@@ -1,7 +1,7 @@
-# WH-HackerExploit BOTNET
+# 🏳 WH-HackerExploit BOTNET 🔞
 Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
-# requirements PKG
+# ➰ requirements PKG
 ☆ PowerShell 
 
 and 
@@ -9,7 +9,7 @@ and
 Other All pkg automatic download and install .
 
 
-# SYSTEM TEST
+# 🛢 SYSTEM TEST
 1. kali-linux   
 
 2. parrot os
@@ -18,7 +18,7 @@ Other All pkg automatic download and install .
 
 4. Android (5.0 to 7.0)[ Recommended System ]
 
-# HOW TO INSTALL in WINDOWS
+# 💡 HOW TO INSTALL in WINDOWS
 
 1. Download Zip file https://github.com/wh-hackerexploit/WH-BotNet/archive/master.zip
 
@@ -33,7 +33,7 @@ Other All pkg automatic download and install .
 
 
 
-# HOW TO INSTALL in any Linux (kali/android)
+# 💡 HOW TO INSTALL in any Linux (kali/android)
 
 1. git clone https://github.com/wh-hackerexploit/WH-BotNet.git
 
@@ -48,7 +48,7 @@ Other All pkg automatic download and install .
 
 6. chose system [ Kali or parrot > 1 // Android > 2 ]
 
-# How to RUN
+# 💡 How to RUN
 
 1. Run Botnet option (2)
 
@@ -68,17 +68,17 @@ Other All pkg automatic download and install .
   
 
 
-# LOGIN INFO..
+# 🔓 LOGIN INFO..
 Username : wh-hackerexploit
 
 password : wh-botnet
 
-# Browser access
+# 🌐 Browser access
 
 * Your browser access >>  [ http://《YOUR IPv4》:22533 ]
 
 
-# How To Use ? YOUTUBE VIDEO ⬇ 
+# 💡 How To Use ? YOUTUBE VIDEO ⬇ 
  
  
  
@@ -96,7 +96,7 @@ password : wh-botnet
 
 
 
-## Screenshot:
+## 🏔 Screenshot:
 
 
 
@@ -111,7 +111,7 @@ password : wh-botnet
 
 <br /><br />
 
-# INFO
+# ℹ INFO
 Framwork version : 1.0.1 
 
 POWER BY >> WH-HackerExploit  
