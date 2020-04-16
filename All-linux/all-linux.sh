@@ -1,4 +1,30 @@
-#!/bin/bash
+
+#!/bin/bash 
+
+###################################################################################
+###################################################################################
+##              <%      W H  -  H A C K E R E X P L O I T        %>              ##
+##                  ___________________________________________                  ##
+##                                                                               ##
+## Name       : WH Hacker Exploit BOTNET / WH-BotNet                             ##      
+## Power by   : WH-HackerExploit                                                 ##
+## version    : 1.0.1                                                            ##
+## Developer  : R47                                                              ##
+##                                                                               ##
+##-------------------------------------------------------------------------------##
+## LEGAL DISCLAIMER >>                                                           ##
+##                                                                               ##
+## Do not attempt to violate the law with anything contained here. If this       ##
+## is your intention, then LEAVE NOW! Neither administration of this             ##
+## server, the authors of this material, or anyone else affiliated in any        ## 
+## way, is going to accept responsibility for your actions.                      ##
+##                                                                               ##
+###################################################################################
+###################################################################################
+
+
+
+
 LPARTH=`pwd`
 
 EDITOR=vim
