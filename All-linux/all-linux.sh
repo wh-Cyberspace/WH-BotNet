@@ -24,7 +24,6 @@
 
 
 
-
 LPARTH=`pwd`
 
 EDITOR=vim
