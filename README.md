@@ -23,7 +23,7 @@ Other All pkg automatic download and install .
 1. Download Zip file https://github.com/wh-hackerexploit/WH-BotNet/archive/master.zip
 
 
-2. Opne up Windows directory
+2. Open up Windows directory
 
 3. Now, Run WinBot.exe 
 
