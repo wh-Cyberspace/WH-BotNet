@@ -20,7 +20,7 @@ Other All pkg automatic download and install .
 
 # 💡 HOW TO INSTALL in WINDOWS
 
-1. Download Zip file https://github.com/wh-hackerexploit/WH-BotNet/archive/master.zip
+1. Download Zip file https://github.com/wh-Cyberspace/WH-BotNet/archive/master.zip
 
 
 2. Open up Windows directory
@@ -35,7 +35,7 @@ Other All pkg automatic download and install .
 
 # 💡 HOW TO INSTALL in any Linux (kali/android)
 
-1. git clone https://github.com/wh-hackerexploit/WH-BotNet.git
+1. git clone https://github.com/wh-Cyberspace/WH-BotNet.git
 
 2. cd WH-BotNet/All-linux
 
