@@ -174,6 +174,7 @@ do
 				  echo ${BLUE}[☆] ${YELLOW}Please wait: installing missing dependencies ..${RESTORE};
 				  echo ""
 				  sudo apt-get install nodejs -y
+				  sudo apt-get install npm -y
 				  echo ""
 				else
 				  echo ${BLUE}[☆]${YELLOW}" NodeJS installation   : ${GREEN}found!"${RESTORE};
